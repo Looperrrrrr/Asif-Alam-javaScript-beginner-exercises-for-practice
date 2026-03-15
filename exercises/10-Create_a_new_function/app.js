@@ -4,4 +4,4 @@ function shortIntroduction(name, profession, age) {
 }
 
 // Fill the gaps with your data in the correct order
-console.log(shortIntroduction("Asif", "software developer", "27"))
+console.log(shortIntroduction("Asif", "software developer", "27"));
