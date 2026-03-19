@@ -18,4 +18,3 @@ function startCounting() {
 
 startCounting();
 
-//Hacer esto primero, luego seguir con el resto.
