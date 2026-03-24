@@ -14,7 +14,7 @@ function getColor(colorNumber = 0) {
 
 	}
 }
-// hacer mañana
+
 function getAllStudentColors() {
 
 	//your loop here
